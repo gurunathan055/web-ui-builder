@@ -7,6 +7,6 @@ module.exports = (gulp, directory, configuration) => () => {
     path.join('!', directory, 'references.ts')
   ]).pipe(tslint({
     configuration: require(configuration),
-    formatter: "verbose"
+    formatter: 'verbose'
   })).pipe(tslint.report());
 };
