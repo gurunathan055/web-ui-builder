@@ -24,7 +24,7 @@ npm install gulp -g
 ```
 
 ```
-git clone https://github.com/b091/ts-skeleton.git
+git clone https://github.com/MostlyBaldEagle/web-ui-builder.git
 ```
 
 ```
