@@ -1,11 +1,11 @@
 {
-  "name": "ts-skeleton",
-  "description": "Skeleton app with typescript",
+  "name": "web-ui-builder",
+  "description": "A Generic Web UI Builder",
   "repository": {
     "type": "git",
-    "url": "git@github.com:b091/ts-skeleton.git"
+    "url": "git@github.com:MostlyBaldEagle1/web-ui-builder.git"
   },
-  "version": "0.4.0",
+  "version": "0.0.1",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
@@ -53,7 +53,7 @@
     },
     "configFile": "jspm.conf.js",
     "dependencies": {
-      "angular": "github:angular/bower-angular@^1.5.3",
+      "angular": "github:angular/bower-angular@^1.5.9",
       "angular-toastr": "github:Foxandxss/angular-toastr@^1.7.0",
       "angular-ui-router": "github:angular-ui/ui-router@^0.2.18",
       "bootstrap": "github:twbs/bootstrap@^3.3.6"
