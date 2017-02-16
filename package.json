@@ -3,7 +3,7 @@
   "description": "A Generic Web UI Builder",
   "repository": {
     "type": "git",
-    "url": "git@github.com:MostlyBaldEagle1/web-ui-builder.git"
+    "url": "git@github.com:MostlyBaldEagle/web-ui-builder.git"
   },
   "version": "0.0.1",
   "license": "MIT",
