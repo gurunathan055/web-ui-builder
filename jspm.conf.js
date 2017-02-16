@@ -19,8 +19,8 @@ System.config({
   },
 
   map: {
-    "angular": "github:angular/bower-angular@1.5.5",
-    "angular-mocks": "github:angular/bower-angular-mocks@1.5.5",
+    "angular": "github:angular/bower-angular@1.5.9",
+    "angular-mocks": "github:angular/bower-angular-mocks@1.5.9",
     "angular-toastr": "github:Foxandxss/angular-toastr@1.7.0",
     "angular-ui-router": "github:angular-ui/ui-router@0.2.18",
     "bootstrap": "github:twbs/bootstrap@3.3.6",
@@ -29,14 +29,14 @@ System.config({
     "ts": "github:frankwallis/plugin-typescript@4.0.5",
     "typescript": "npm:typescript@1.8.9",
     "github:Foxandxss/angular-toastr@1.7.0": {
-      "angular": "github:angular/bower-angular@1.5.5",
+      "angular": "github:angular/bower-angular@1.5.9",
       "css": "github:systemjs/plugin-css@0.1.21"
     },
     "github:angular-ui/ui-router@0.2.18": {
-      "angular": "github:angular/bower-angular@1.5.5"
+      "angular": "github:angular/bower-angular@1.5.9"
     },
-    "github:angular/bower-angular-mocks@1.5.5": {
-      "angular": "github:angular/bower-angular@1.5.5"
+    "github:angular/bower-angular-mocks@1.5.9": {
+      "angular": "github:angular/bower-angular@1.5.9"
     },
     "github:frankwallis/plugin-typescript@4.0.5": {
       "typescript": "npm:typescript@1.8.9"
