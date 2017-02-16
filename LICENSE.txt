@@ -1,6 +1,6 @@
 Copyright (C) 2015 b091
 With contributions by several individuals:
-https://github.com/b091/ts-skeleton/graphs/contributors
+https://github.com/MostlyBaldEagle/web-gui-builder/graphs/contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
